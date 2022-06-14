@@ -1,4 +1,4 @@
-### This is the online repository of the GAN-based test case augmentation Techniques.
+### This is the online repository of a test case augmentation Techniques.
 ## Task Definition
 
 Model-domain Synthesized Failing Test Augmentation for Fault Localization with Influential-contexts-based GAN.
